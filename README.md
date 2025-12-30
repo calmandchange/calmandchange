@@ -15,10 +15,6 @@
 </p>
 
 <br>
-
-<h3>Vani's GitHub Stats</h3>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=Vani&show_icons=true&theme=default&include_all_commits=true" alt="Stats Card" />
-  </a>>
+  [![Vani[Va's GitHub sta(https://github-readme-stats.vercel.app/api?username=calmandchange)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
