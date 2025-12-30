@@ -15,6 +15,6 @@
 </p>
 
 <br>
-  [![Vani[Va's GitHub sta(https://github-readme-stats.vercel.app/api?username=calmandchange)](https://github.com/anuraghazra/github-readme-stats)
+  [![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=calmandchange)](https://github.com/pranesh-2005/github-readme-stats-fast)
 
 </div>
